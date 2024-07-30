@@ -1,1 +1,2 @@
 # ShallowWaterExample
+A python reimplementation of Shallow Water equation solver based on the Lax-Wendroff method found [here](https://homes.civil.aau.dk/jen/VisualizationExercise3/ShallowWaterEquations.pdf).
